@@ -2,7 +2,7 @@
 
 <div id="page" class="hfeed site grid-container container grid-parent">
    <div id="content" class="site-content">
-    <p id="breadcrumbs"><span><span><a href="https://qiangwaikan.com/">首页</a> &raquo; <span><a href="https://qiangwaikan.com/category/vpn-info/">VPN知识</a> &raquo; <span class="breadcrumb_last" aria-current="page">2022【科学上网、翻墙软件】推荐与测评(2月最新)✈️</span></span></span></span></p>
+    <p id="breadcrumbs"><span><span><a href="https://github.com/wuxianff/qwk/">首页</a> &raquo; <span><a href="https://github.com/wuxianff/qwk/category/vpn-info/">VPN知识</a> &raquo; <span class="breadcrumb_last" aria-current="page">2022【科学上网、翻墙软件】推荐与测评(2月最新)✈️</span></span></span></span></p>
     <div id="primary" class="content-area grid-parent mobile-grid-100 push-20 grid-60 tablet-push-20 tablet-grid-60">
      <main id="main" class="site-main">
       <article id="post-1016" class="post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-vpn-info" itemtype="https://schema.org/CreativeWork" itemscope="">
@@ -10,14 +10,14 @@
         <header class="entry-header">
          <h1 class="entry-title" itemprop="headline">2022【科学上网、翻墙软件】推荐与测评(2月最新)✈️</h1>
          <div class="entry-meta"> 
-          <span class="posted-on"><a href="https://qiangwaikan.com/gfw/" title="2:20 上午" rel="bookmark"><time class="updated" datetime="2022-02-16T11:58:22+00:00" itemprop="dateModified">2022年2月16日</time><time class="entry-date published" datetime="2022-02-01T02:20:00+00:00" itemprop="datePublished">2022年2月1日</time></a></span>
+          <span class="posted-on"><a href="https://github.com/wuxianff/qwk/gfw/" title="2:20 上午" rel="bookmark"><time class="updated" datetime="2022-02-16T11:58:22+00:00" itemprop="dateModified">2022年2月16日</time><time class="entry-date published" datetime="2022-02-01T02:20:00+00:00" itemprop="datePublished">2022年2月1日</time></a></span>
          </div>
         </header>
         <div class="featured-image  page-header-image-single "> 
          <noscript>
-          <img width="800" height="340" src="https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg" class="attachment-full size-full" alt="翻墙" itemprop="image" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new-300x128.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new-768x326.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+          <img width="800" height="340" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg" class="attachment-full size-full" alt="翻墙" itemprop="image" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new-300x128.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new-768x326.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
          </noscript>
-         <img width="800" height="340" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20340%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg" class="lazyload attachment-full size-full" alt="翻墙" itemprop="image" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new-300x128.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/the-great-fire-wall-new-768x326.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+         <img width="800" height="340" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20340%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg" class="lazyload attachment-full size-full" alt="翻墙" itemprop="image" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new-300x128.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/the-great-fire-wall-new-768x326.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
         </div>
         <div class="entry-content" itemprop="text">
          <p>随着时间的推移，防火长城也在不断升级，翻墙变得越来越难，很多翻墙软件倒下了，很多之前好用的科学上网工具也不在有效。当然也有新的软件、新的协议不断被开发出来。根据我的使用经验和VPN测评，本文会推荐几款好用的翻墙软件和不同的翻墙教程。</p>
@@ -39,9 +39,9 @@
          <div class="product-intro">
           <div class="product-intro-img"> 
            <noscript>
-            <img src="https://qiangwaikan.com/wp-content/uploads/2021/01/expressvpn-new-website.jpg" alt="ExpressVPN官网" />
+            <img src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/01/expressvpn-new-website.jpg" alt="ExpressVPN官网" />
            </noscript>
-           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/01/expressvpn-new-website.jpg" alt="ExpressVPN官网" />
+           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/01/expressvpn-new-website.jpg" alt="ExpressVPN官网" />
           </div>
           <div class="wp-block-button aligncenter">
            <a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianff&data1=qwk" target="_blank" rel="noopener" style="padding: 5px 20px;margin: 10px auto"><i class="fa fa-globe">&nbsp;</i>访问官网</a>
@@ -62,9 +62,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="800" height="362" src="https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app.jpg" alt="下载ExpressVPN客户端" class="wp-image-7052" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app-300x136.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app-768x348.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+            <img width="800" height="362" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app.jpg" alt="下载ExpressVPN客户端" class="wp-image-7052" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app-300x136.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app-768x348.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
            </noscript>
-           <img width="800" height="362" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20362%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app.jpg" alt="下载ExpressVPN客户端" class="lazyload wp-image-7052" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app-300x136.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/expressvpn-download-app-768x348.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="362" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20362%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app.jpg" alt="下载ExpressVPN客户端" class="lazyload wp-image-7052" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app-300x136.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/expressvpn-download-app-768x348.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
           </figure>
          </div>
          <p><a href="/unblock-netflix/">解锁Netflix</a>、BBC iPlayer和其他流媒体服务的功能也很重要，因为这些网站目前存在锁区的问题，也就是不允许用户在其他地区观看，你必须借助翻墙软件连接到相应的服务器才能正常观看，只有像ExpressVPN这种不限制带宽并且速度快的VPN才能流畅观看。</p>
@@ -76,9 +76,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="532" height="314" src="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-price-china.jpg" alt="ExpressVPN价格" class="wp-image-4937" srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-price-china.jpg 532w, https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-price-china-300x177.jpg 300w" sizes="(max-width: 532px) 100vw, 532px" />
+            <img width="532" height="314" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-price-china.jpg" alt="ExpressVPN价格" class="wp-image-4937" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-price-china.jpg 532w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-price-china-300x177.jpg 300w" sizes="(max-width: 532px) 100vw, 532px" />
            </noscript>
-           <img width="532" height="314" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20532%20314%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-price-china.jpg" alt="ExpressVPN价格" class="lazyload wp-image-4937" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-price-china.jpg 532w, https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-price-china-300x177.jpg 300w" data-sizes="(max-width: 532px) 100vw, 532px" />
+           <img width="532" height="314" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20532%20314%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-price-china.jpg" alt="ExpressVPN价格" class="lazyload wp-image-4937" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-price-china.jpg 532w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-price-china-300x177.jpg 300w" data-sizes="(max-width: 532px) 100vw, 532px" />
           </figure>
          </div>
          <p>中国近距离节点有香港、新加坡、美国，ExpressVPN的服务器列表是按城市显示的，但其实每个城市城市都对应很多台服务器，在你选择之后应用程序会自动为你选择最快的服务器。通过ExpressVPN的30天退款保证，可以在期限内免费试用VPN</p>
@@ -97,9 +97,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="323" height="595" src="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg" alt="ExpressVPN iOS APP软件连接到香港" class="wp-image-4931" srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg 323w, https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-hongkong-connected-163x300.jpg 163w" sizes="(max-width: 323px) 100vw, 323px" />
+            <img width="323" height="595" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg" alt="ExpressVPN iOS APP软件连接到香港" class="wp-image-4931" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg 323w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-hongkong-connected-163x300.jpg 163w" sizes="(max-width: 323px) 100vw, 323px" />
            </noscript>
-           <img width="323" height="595" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20323%20595%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg" alt="ExpressVPN iOS APP软件连接到香港" class="lazyload wp-image-4931" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg 323w, https://qiangwaikan.com/wp-content/uploads/2020/09/expressvpn-hongkong-connected-163x300.jpg 163w" data-sizes="(max-width: 323px) 100vw, 323px" />
+           <img width="323" height="595" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20323%20595%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg" alt="ExpressVPN iOS APP软件连接到香港" class="lazyload wp-image-4931" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-hongkong-connected.jpg 323w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/expressvpn-hongkong-connected-163x300.jpg 163w" data-sizes="(max-width: 323px) 100vw, 323px" />
           </figure>
          </div>
          <div class="product-coupon">
@@ -116,9 +116,9 @@
          <div class="product-intro">
           <div class="product-intro-img"> 
            <noscript>
-            <img src="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-website.jpg" alt="PureVPN官网" />
+            <img src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-website.jpg" alt="PureVPN官网" />
            </noscript>
-           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-website.jpg" alt="PureVPN官网" />
+           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-website.jpg" alt="PureVPN官网" />
           </div>
           <div class="wp-block-button aligncenter">
            <a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianff&data2=qkw" target="_blank" rel="noopener" style="padding: 5px 20px;margin: 10px auto"><i class="fa fa-globe">&nbsp;</i>访问官网</a>
@@ -139,18 +139,18 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="800" height="263" src="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app.jpg" alt="下载PureVPN客户端" class="wp-image-7049" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app-300x99.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app-768x252.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+            <img width="800" height="263" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app.jpg" alt="下载PureVPN客户端" class="wp-image-7049" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app-300x99.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app-768x252.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
            </noscript>
-           <img width="800" height="263" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20263%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app.jpg" alt="下载PureVPN客户端" class="lazyload wp-image-7049" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app-300x99.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-download-app-768x252.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="263" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20263%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app.jpg" alt="下载PureVPN客户端" class="lazyload wp-image-7049" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app-300x99.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-download-app-768x252.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
           </figure>
          </div>
          <p>隐私和安全问题是VPN服务商立足之根本，其通过AES 256的密钥为用户提供安全保障，这属于军用机别的加密强度，可以避免第三方机构、黑客窃取你的数据。PureVPN还具有私有的DNS服务器，在你翻墙访问Facebook、Google等网站时，不会将请求发送到公共DNS服务器，因此可以绕过防火长城的DNS检测，让科学上网更加稳定。</p>
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="379" height="420" src="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-price-2021.jpg" alt="PureVPN价格" class="wp-image-7053" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-price-2021.jpg 379w, https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-price-2021-271x300.jpg 271w" sizes="(max-width: 379px) 100vw, 379px" />
+            <img width="379" height="420" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-price-2021.jpg" alt="PureVPN价格" class="wp-image-7053" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-price-2021.jpg 379w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-price-2021-271x300.jpg 271w" sizes="(max-width: 379px) 100vw, 379px" />
            </noscript>
-           <img width="379" height="420" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20379%20420%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-price-2021.jpg" alt="PureVPN价格" class="lazyload wp-image-7053" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-price-2021.jpg 379w, https://qiangwaikan.com/wp-content/uploads/2021/04/purevpn-price-2021-271x300.jpg 271w" data-sizes="(max-width: 379px) 100vw, 379px" />
+           <img width="379" height="420" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20379%20420%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-price-2021.jpg" alt="PureVPN价格" class="lazyload wp-image-7053" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-price-2021.jpg 379w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/purevpn-price-2021-271x300.jpg 271w" data-sizes="(max-width: 379px) 100vw, 379px" />
           </figure>
          </div>
          <p>PureVPN运营时间已经很长了，因此各方面都比较完善，支持的设备类型也比较丰富。价格上也比较优惠，目前仍然是少数提供支付宝购买方式的VPN服务商之一。另外，你还可以通过银联、Visa以及PayPal的支付方式购买。</p>
@@ -166,9 +166,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="610" height="515" src="https://qiangwaikan.com/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg" alt="PureVPN电脑客户端连接到台湾" class="wp-image-4946" srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg 610w, https://qiangwaikan.com/wp-content/uploads/2020/09/purevpn-taiwan-connected-300x253.jpg 300w" sizes="(max-width: 610px) 100vw, 610px" />
+            <img width="610" height="515" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg" alt="PureVPN电脑客户端连接到台湾" class="wp-image-4946" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg 610w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/purevpn-taiwan-connected-300x253.jpg 300w" sizes="(max-width: 610px) 100vw, 610px" />
            </noscript>
-           <img width="610" height="515" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20610%20515%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg" alt="PureVPN电脑客户端连接到台湾" class="lazyload wp-image-4946" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg 610w, https://qiangwaikan.com/wp-content/uploads/2020/09/purevpn-taiwan-connected-300x253.jpg 300w" data-sizes="(max-width: 610px) 100vw, 610px" />
+           <img width="610" height="515" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20610%20515%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg" alt="PureVPN电脑客户端连接到台湾" class="lazyload wp-image-4946" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/purevpn-taiwan-connected.jpg 610w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/purevpn-taiwan-connected-300x253.jpg 300w" data-sizes="(max-width: 610px) 100vw, 610px" />
           </figure>
          </div>
          <div class="product-coupon">
@@ -185,9 +185,9 @@
          <div class="product-intro">
           <div class="product-intro-img"> 
            <noscript>
-            <img src="https://qiangwaikan.com/wp-content/uploads/2020/08/surfshark-review-cover.jpg" alt="Surfshark官网" />
+            <img src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/08/surfshark-review-cover.jpg" alt="Surfshark官网" />
            </noscript>
-           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/08/surfshark-review-cover.jpg" alt="Surfshark官网" />
+           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/08/surfshark-review-cover.jpg" alt="Surfshark官网" />
           </div>
           <div class="wp-block-button aligncenter">
            <a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianff&data2=qkw" target="_blank" rel="noopener" style="padding: 5px 20px;margin: 10px auto"><i class="fa fa-globe">&nbsp;</i>访问官网</a>
@@ -208,17 +208,17 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="800" height="303" src="https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app.jpg" alt="下载Surfshark客户端" class="wp-image-7050" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app-300x114.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app-768x291.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+            <img width="800" height="303" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app.jpg" alt="下载Surfshark客户端" class="wp-image-7050" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app-300x114.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app-768x291.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
            </noscript>
-           <img width="800" height="303" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20303%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app.jpg" alt="下载Surfshark客户端" class="lazyload wp-image-7050" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app-300x114.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/surfshark-download-app-768x291.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="303" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20303%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app.jpg" alt="下载Surfshark客户端" class="lazyload wp-image-7050" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app-300x114.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/surfshark-download-app-768x291.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
           </figure>
          </div>
          <p>与其他翻墙VPN最大的不同，是Surfshark不限制设备数量。啥意思？就是你随便在电脑、手机和<a href="/chrome-vpn/">浏览器插件</a>上同时使用，划重点”同时使用”，所以你可以和你朋友共享一个账号，你可以在个人中心页面下载翻墙软件。</p>
          <figure class="wp-block-image size-large">
           <noscript>
-           <img width="1024" height="381" src="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg" alt="Surfshark价格" class="wp-image-4763" srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg 1024w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-300x112.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-768x285.jpg 768w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price.jpg 1208w" sizes="(max-width: 1024px) 100vw, 1024px" />
+           <img width="1024" height="381" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg" alt="Surfshark价格" class="wp-image-4763" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg 1024w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-300x112.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-768x285.jpg 768w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price.jpg 1208w" sizes="(max-width: 1024px) 100vw, 1024px" />
           </noscript>
-          <img width="1024" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201024%20381%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg" alt="Surfshark价格" class="lazyload wp-image-4763" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg 1024w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-300x112.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price-768x285.jpg 768w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-new-price.jpg 1208w" data-sizes="(max-width: 1024px) 100vw, 1024px" />
+          <img width="1024" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201024%20381%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg" alt="Surfshark价格" class="lazyload wp-image-4763" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-1024x381.jpg 1024w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-300x112.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price-768x285.jpg 768w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-new-price.jpg 1208w" data-sizes="(max-width: 1024px) 100vw, 1024px" />
          </figure>
          <p>Whitelister也是一个比较有意思的功能，就是配置哪些域名通过VPN访问，哪些直接访问。你可以GitHub上找一下PAC配置文件，就是国外被墙的域名名单，然后复制到配置项里面，就能翻墙上外网，国内流量则不经过翻墙工具，速度要快很多，科学上网的体验更友好。</p>
          <h4>使用Surfshark如何翻墙？</h4>
@@ -234,9 +234,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="440" height="500" src="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg" alt="Surfshark连接到新加坡" class="wp-image-4949" srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg 440w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-singapore-connected-264x300.jpg 264w" sizes="(max-width: 440px) 100vw, 440px" />
+            <img width="440" height="500" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg" alt="Surfshark连接到新加坡" class="wp-image-4949" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg 440w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-singapore-connected-264x300.jpg 264w" sizes="(max-width: 440px) 100vw, 440px" />
            </noscript>
-           <img width="440" height="500" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20440%20500%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg" alt="Surfshark连接到新加坡" class="lazyload wp-image-4949" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg 440w, https://qiangwaikan.com/wp-content/uploads/2020/09/surfshark-singapore-connected-264x300.jpg 264w" data-sizes="(max-width: 440px) 100vw, 440px" />
+           <img width="440" height="500" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20440%20500%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg" alt="Surfshark连接到新加坡" class="lazyload wp-image-4949" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-singapore-connected.jpg 440w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/surfshark-singapore-connected-264x300.jpg 264w" data-sizes="(max-width: 440px) 100vw, 440px" />
           </figure>
          </div>
          <div class="product-coupon">
@@ -253,9 +253,9 @@
          <div class="product-intro">
           <div class="product-intro-img"> 
            <noscript>
-            <img src="https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-big-website.jpg" alt="Panda VPN官网" />
+            <img src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-big-website.jpg" alt="Panda VPN官网" />
            </noscript>
-           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-big-website.jpg" alt="Panda VPN官网" />
+           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-big-website.jpg" alt="Panda VPN官网" />
           </div>
           <div class="wp-block-button aligncenter">
            <a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://www.pankvyh.xyz/r/22216799" target="_blank" rel="noopener" style="padding: 5px 20px;margin: 10px auto"><i class="fa fa-globe">&nbsp;</i>访问官网</a>
@@ -275,18 +275,18 @@
          <p>官网虽然没有明说这就是一款翻墙app，但官网中的上海、香港、北京等地标已经暗示了它是一款科学上网SSR梯子。我猜这样做，主要还是为了行事低调，毕竟树大招风，小心驶得万年船。另外，Panda VPN目前已经支持英语、韩语、日语等10中语言，比中国国内科学上网机场资本更雄厚。</p>
          <figure class="wp-block-image size-large">
           <noscript>
-           <img width="800" height="424" src="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app.jpg" alt="下载Panda VPN客户端" class="wp-image-7048" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app-300x159.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app-768x407.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="424" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app.jpg" alt="下载Panda VPN客户端" class="wp-image-7048" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app-300x159.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app-768x407.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
           </noscript>
-          <img width="800" height="424" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20424%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app.jpg" alt="下载Panda VPN客户端" class="lazyload wp-image-7048" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app-300x159.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-download-app-768x407.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+          <img width="800" height="424" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20424%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app.jpg" alt="下载Panda VPN客户端" class="lazyload wp-image-7048" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app-300x159.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-download-app-768x407.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
          </figure>
          <p>之所以推荐新手将Panda VPN作为首选翻墙软件，除了其本身是华人团队，中文地道之外，还得益于他们简单方便的VPN软件，基本你之前从未使用过翻墙工具，也能轻松上手，因为你只需要登陆账号就能一键翻墙。并且Panda VPN在软件的视觉效果方面也非常用心，不管是官网、客户端还是翻墙APP，其界面设计都非常好看，颜值相当高，是相当好用的VPN。</p>
          <p>Panda VPN在流媒体方面非常出色，他们提供NETFLIX)、HULU、HBO、AbemaTV、Disney等流媒体专线。而如果你是海外党，想观看中国大陆的B站、爱奇艺、腾讯视频等流媒体，也能使用他们的中国VPN服务器<a href="/into-china/">翻墙回国</a>。除此之外，他们还提供<a href="/gaming-vpn/">游戏VPN</a>IPLC专线，比其他线路延迟更低，但这些线路禁止下载和观看视频。</p>
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="800" height="309" src="https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price.jpg" alt="Panda VPN价格" class="wp-image-5953" srcset="https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price-300x116.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price-768x297.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+            <img width="800" height="309" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price.jpg" alt="Panda VPN价格" class="wp-image-5953" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price-300x116.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price-768x297.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
            </noscript>
-           <img width="800" height="309" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20309%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price.jpg" alt="Panda VPN价格" class="lazyload wp-image-5953" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price-300x116.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2020/12/pandavpn-price-768x297.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="309" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20309%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price.jpg" alt="Panda VPN价格" class="lazyload wp-image-5953" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price-300x116.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/12/pandavpn-price-768x297.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
           </figure>
          </div>
          <p>流量方面你不用愁，目前几乎所有VPN都提供无限流量，最高限制带宽是10Gbps，大部分用户家里带宽跑满可能都达不到这个限制了。Panda VPN目前提供的24个月和12个月的套餐优惠最高，算下来是每月$2.3~$3.9的样子。</p>
@@ -294,9 +294,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="800" height="475" src="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg" alt="熊猫VPN iOS翻墙" class="wp-image-7281" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id-300x178.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id-768x456.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+            <img width="800" height="475" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg" alt="熊猫VPN iOS翻墙" class="wp-image-7281" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id-300x178.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id-768x456.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
            </noscript>
-           <img width="800" height="475" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20475%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg" alt="熊猫VPN iOS翻墙" class="lazyload wp-image-7281" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id-300x178.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/pandavpn-give-apple-id-768x456.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="475" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20475%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg" alt="熊猫VPN iOS翻墙" class="lazyload wp-image-7281" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id-300x178.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/pandavpn-give-apple-id-768x456.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
           </figure>
          </div>
          <p>如果你是使用iOS科学上网上的苹果/iPhone/iPad用户，还可以使用他们官网提供Apple ID账号下载他们的APP，否则你需要自己注册美区Apple ID，这可以说是熊猫VPN独家的人性化<a href="/iphone-vpn/">iOS翻墙</a>服务。</p>
@@ -315,9 +315,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="480" height="660" src="https://qiangwaikan.com/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg" alt="Panda VPN电脑客户端香港服务器列表" class="wp-image-7047" srcset="https://qiangwaikan.com/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg 480w, https://qiangwaikan.com/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong-218x300.jpg 218w" sizes="(max-width: 480px) 100vw, 480px" />
+            <img width="480" height="660" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg" alt="Panda VPN电脑客户端香港服务器列表" class="wp-image-7047" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg 480w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong-218x300.jpg 218w" sizes="(max-width: 480px) 100vw, 480px" />
            </noscript>
-           <img width="480" height="660" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20480%20660%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg" alt="Panda VPN电脑客户端香港服务器列表" class="lazyload wp-image-7047" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg 480w, https://qiangwaikan.com/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong-218x300.jpg 218w" data-sizes="(max-width: 480px) 100vw, 480px" />
+           <img width="480" height="660" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20480%20660%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg" alt="Panda VPN电脑客户端香港服务器列表" class="lazyload wp-image-7047" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong.jpg 480w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/pandavpn-connected-to-hongkong-218x300.jpg 218w" data-sizes="(max-width: 480px) 100vw, 480px" />
           </figure>
          </div>
          <div class="product-coupon">
@@ -334,9 +334,9 @@
          <div class="product-intro">
           <div class="product-intro-img"> 
            <noscript>
-            <img src="https://qiangwaikan.com/wp-content/uploads/2020/10/vyprvpn-big-cover.jpg" alt="VyprVPN官网" />
+            <img src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/10/vyprvpn-big-cover.jpg" alt="VyprVPN官网" />
            </noscript>
-           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/10/vyprvpn-big-cover.jpg" alt="VyprVPN官网" />
+           <img class="lazyload" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/10/vyprvpn-big-cover.jpg" alt="VyprVPN官网" />
           </div>
           <div class="wp-block-button aligncenter">
            <a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxianff&data2=qkw" target="_blank" rel="noopener" style="padding: 5px 20px;margin: 10px auto"><i class="fa fa-globe">&nbsp;</i>访问官网</a>
@@ -357,9 +357,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="800" height="306" src="https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app.jpg" alt="下载VyprVPN客户端" class="wp-image-7051" srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app-300x115.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app-768x294.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+            <img width="800" height="306" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app.jpg" alt="下载VyprVPN客户端" class="wp-image-7051" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app-300x115.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app-768x294.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
            </noscript>
-           <img width="800" height="306" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20306%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app.jpg" alt="下载VyprVPN客户端" class="lazyload wp-image-7051" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app.jpg 800w, https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app-300x115.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/04/vyprvpn-download-app-768x294.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
+           <img width="800" height="306" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20800%20306%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app.jpg" alt="下载VyprVPN客户端" class="lazyload wp-image-7051" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app.jpg 800w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app-300x115.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/04/vyprvpn-download-app-768x294.jpg 768w" data-sizes="(max-width: 800px) 100vw, 800px" />
           </figure>
          </div>
          <p>VyprVPN目前提供PC端Windows电脑、Mac、iOS、Linux、路由器和<a href="/android-vpn/">安卓手机翻墙软件</a>，还支持QNAP、安卓电视、Anonabox和BlackPhone等设备。VyprVPN还提供了DD-WRT、Tomato、AsusWRT等路由器固件以及相关的使用文档，你可以去官网下载翻墙软件，国产小米<a href="/router-vpn/">路由器翻墙</a>需要自己刷固件。而变色龙协议目前尚不支持iOS系统的苹果手机，这也算是它的一个缺点。</p>
@@ -367,9 +367,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="985" height="345" src="https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg" alt="VyprVPN价格" class="wp-image-7057" srcset="https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg 985w, https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021-300x105.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021-768x269.jpg 768w" sizes="(max-width: 985px) 100vw, 985px" />
+            <img width="985" height="345" src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg" alt="VyprVPN价格" class="wp-image-7057" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg 985w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021-300x105.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021-768x269.jpg 768w" sizes="(max-width: 985px) 100vw, 985px" />
            </noscript>
-           <img width="985" height="345" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20985%20345%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg" alt="VyprVPN价格" class="lazyload wp-image-7057" data-srcset="https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg 985w, https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021-300x105.jpg 300w, https://qiangwaikan.com/wp-content/uploads/2021/03/vyprvn-new-price-2021-768x269.jpg 768w" data-sizes="(max-width: 985px) 100vw, 985px" />
+           <img width="985" height="345" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20985%20345%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg" alt="VyprVPN价格" class="lazyload wp-image-7057" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021.jpg 985w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021-300x105.jpg 300w, https://github.com/wuxianff/qwk/wp-content/uploads/2021/03/vyprvn-new-price-2021-768x269.jpg 768w" data-sizes="(max-width: 985px) 100vw, 985px" />
           </figure>
          </div>
          <p>VyprVPN的所有客户端都具备自动断流开关(Kill Switch)，当VPN连接以外断开的时候，此功能会阻止流量继续传输，防止IP地址或其他敏感数据泄露。VyprVPN允许同一个账户5台设备同时连接，因此你可以在手机和电脑上同时使用翻墙工具。在使用过程中遇到任何问题，都可以联系他们的24/7在线客服，如果遇到严重的连接问题，可以联系客服退款。</p>
@@ -387,9 +387,9 @@
          <div class="wp-block-image">
           <figure class="aligncenter size-large">
            <noscript>
-            <img width="270" height="536" src="https://qiangwaikan.com/wp-content/uploads/2020/09/vypr-macao-connected.jpg" alt="VyprVPN手机软件连接到澳门" class="wp-image-4933" srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/vypr-macao-connected.jpg 270w, https://qiangwaikan.com/wp-content/uploads/2020/09/vypr-macao-connected-151x300.jpg 151w" sizes="(max-width: 270px) 100vw, 270px" />
+            <img width="270" height="536" src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/vypr-macao-connected.jpg" alt="VyprVPN手机软件连接到澳门" class="wp-image-4933" srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/vypr-macao-connected.jpg 270w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/vypr-macao-connected-151x300.jpg 151w" sizes="(max-width: 270px) 100vw, 270px" />
            </noscript>
-           <img width="270" height="536" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20270%20536%22%3E%3C/svg%3E" data-src="https://qiangwaikan.com/wp-content/uploads/2020/09/vypr-macao-connected.jpg" alt="VyprVPN手机软件连接到澳门" class="lazyload wp-image-4933" data-srcset="https://qiangwaikan.com/wp-content/uploads/2020/09/vypr-macao-connected.jpg 270w, https://qiangwaikan.com/wp-content/uploads/2020/09/vypr-macao-connected-151x300.jpg 151w" data-sizes="(max-width: 270px) 100vw, 270px" />
+           <img width="270" height="536" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20270%20536%22%3E%3C/svg%3E" data-src="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/vypr-macao-connected.jpg" alt="VyprVPN手机软件连接到澳门" class="lazyload wp-image-4933" data-srcset="https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/vypr-macao-connected.jpg 270w, https://github.com/wuxianff/qwk/wp-content/uploads/2020/09/vypr-macao-connected-151x300.jpg 151w" data-sizes="(max-width: 270px) 100vw, 270px" />
           </figure>
          </div>
          <div class="product-coupon">
